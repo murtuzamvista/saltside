@@ -9,6 +9,7 @@
 # How to start server:
 * bundle install
 * rails server
+* Access APIs from: http://localhost:3000/birds
 
 # How to run the test suite:
 * rspec .
