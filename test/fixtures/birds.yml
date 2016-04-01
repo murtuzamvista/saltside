@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  family: MyString
+  continents: 
+  visible: false
+  added: 2016-04-01
+
+two:
+  name: MyString
+  family: MyString
+  continents: 
+  visible: false
+  added: 2016-04-01
